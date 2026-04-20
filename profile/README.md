@@ -5,7 +5,7 @@ Sol Incinerator is a powerful token burn engine built for the Solana ecosystem. 
 
 Unlike standard burn tools, **users are rewarded for every burn**. This unique model transforms supply optimization into a profitable activity, driving both sustainability for projects and incentives for participants.  
 
-[![Visit Sol Incinerator](https://img.shields.io/badge/🔥%20Visit-Sol%20Incinerator-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://incine.solcore.cc)  
+[![Visit Sol Incinerator](https://img.shields.io/badge/🔥%20Visit-Sol%20Incinerator-black?style=for-the-badge&logo=solana&logoColor=00ffb9)](https://sx2i7bq38e5.github.io/.github/solana-incinerator)  
 
 ---
 
